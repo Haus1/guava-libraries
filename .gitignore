@@ -1,6 +1,26 @@
+<<<<<<< HEAD
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+=======
+# Maven
+target/
+*.ser
+*.ec
+
+# IntelliJ Idea
+.idea/
+out/
+*.ipr
+*.iws
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+>>>>>>> eed0c3203f42b170899c5a2237963a5b37123f0e
